@@ -1,0 +1,11 @@
+﻿@{ ViewBag.Title = "All Photos"; }
+
+<h2>All Photos</h2>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+@Html.Action("_PhotoGallery", "Photo")

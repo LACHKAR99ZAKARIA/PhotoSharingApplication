@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingApplication", "PhotoSharingApplication\PhotoSharingApplication.csproj", "{4A178C58-A528-49BF-AA07-BBD5C1526447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingTests", "PhotoSharingTests\PhotoSharingTests.csproj", "{AB0968E5-3D22-4CF9-AF8B-DB27C0B82629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A178C58-A528-49BF-AA07-BBD5C1526447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A178C58-A528-49BF-AA07-BBD5C1526447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A178C58-A528-49BF-AA07-BBD5C1526447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A178C58-A528-49BF-AA07-BBD5C1526447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0968E5-3D22-4CF9-AF8B-DB27C0B82629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0968E5-3D22-4CF9-AF8B-DB27C0B82629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0968E5-3D22-4CF9-AF8B-DB27C0B82629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0968E5-3D22-4CF9-AF8B-DB27C0B82629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
